@@ -2,6 +2,8 @@
 
 Data Visualization Map: https://ncsu-nndl-spring26.github.io/p65/map
 
+Project Video: https://youtu.be/pL7pOaifbx0
+
 
 ## Poster
 
